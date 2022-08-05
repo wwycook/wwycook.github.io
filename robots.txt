@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://wwycook.github.io/sitemap.xml
